@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.itchyfeetleech.groceryhelper",
+      "sha256_cert_fingerprints": [
+        "3C:90:3D:CF:6B:08:72:48:94:2F:82:C3:05:9B:73:07:84:89:F0:A1:97:D3:A9:28:6C:BC:C3:B7:CB:7F:27:52"
+      ]
+    }
+  }
+]
